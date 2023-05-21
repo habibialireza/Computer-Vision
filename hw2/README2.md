@@ -1,0 +1,1 @@
+in My_imresize_4.m I innovated a new way to resize images that uses the discrete wavelet. I pefrom wavelet transform on input image then resize the wavelet elemets and then perform an inverse wavelet transform.
