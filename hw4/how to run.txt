@@ -1,0 +1,2 @@
+a = unrot(1200,1920,160,'C:\Users\alire\Desktop\cvhw4\Q4\Puzzle_2_1200_1920');
+a = rot(1200,1920,160,'C:\Users\alire\Desktop\cvhw4\Q4\Puzzle_2_1200_1920');
